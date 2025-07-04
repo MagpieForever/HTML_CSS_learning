@@ -62,12 +62,12 @@ footer p {
 .container {
   max-width: 940px;
   margin: 0 auto;
-  padding: 0 10px;
+  padding: 0 5px;
   text-align: center;
 }
 
 .jumbotron {
-  height: 800px;
+  height: 600px;
   background-image: url("https://content.codecademy.com/projects/broadway/bg.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -99,7 +99,7 @@ footer p {
 }
 
 .supporting {
-  padding-top: 80px;
+  padding-top: 100px;
   padding-bottom: 100px;
 }
 
@@ -108,7 +108,8 @@ footer p {
   text-align: center;
   display: inline-block;
   width: 200px;
-  height: 200px;
+  height: 100px;
+  
 }
 
 .supporting img {
